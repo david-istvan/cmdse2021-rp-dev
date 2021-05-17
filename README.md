@@ -29,7 +29,7 @@ For any information, interested researchers can contact us by sending an email t
 The full dataset including raw data, mining scripts, and analysis scripts produced during the study are available below.
 
 ### Original study
-* Pointer to the original replication package
+* [Protocol and replication package](http://people.disim.univaq.it/mirco.franzago/collaborativeMDSE)
 
 ### Data & analysis scripts
 
