@@ -30,6 +30,7 @@ The full dataset including raw data, mining scripts, and analysis scripts produc
 
 ### Original study
 * [Protocol and replication package](http://people.disim.univaq.it/mirco.franzago/collaborativeMDSE)
+* [Publication](https://ieeexplore.ieee.org/document/8047991/)
 
 ### Data & analysis scripts
 
