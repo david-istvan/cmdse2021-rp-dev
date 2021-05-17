@@ -3,18 +3,13 @@
 ## Checklist
 
 * This README (see http://people.disim.univaq.it/mirco.franzago/collaborativeMDSE/)
-* Pointer to the original replication package
-* Tech report (focusing on the changes): pdf
-   * People
-   * Assessment
-   * Process
-   * Search strategy
-   * Screening procedure
+
+
 * Data extraction form - changes: pdf
 * Classification framework - changes: pdf
 * Extracted data spreadsheet: xlsx
 * Complete list of the 54 primary studies and the 29 clusters: pdf
-* The data and the results of its analysis: zip
+
 
 
 ==================
@@ -33,6 +28,9 @@ This study has been designed, developed, and reported by the following investiga
 For any information, interested researchers can contact us by sending an email to any of the investigators listed above.
 The full dataset including raw data, mining scripts, and analysis scripts produced during the study are available below.
 
+### Original study
+* Pointer to the original replication package
+
 ### Data & analysis scripts
 
 This replication package is structured as follows:
@@ -48,3 +46,15 @@ This replication package is structured as follows:
    * [/significance](/analysis/significance) - Significance analysis of the 2012/2013 publication ouput increase (.R script and the resulting .txt output)
    * [/venues](/analysis/venues) - Venues analysis (.R script and the resulting .txt output)
    * [/year_stacked](/analysis/year_stacked) - Number and type of publications by year on a stacked bar chart (.R script and the resulting .PDF report)
+* [/results.zip](/results.zip) - Data+Analysis in one .zip file
+
+### Protocol
+
+TODO: PDF file with
+* People
+* Assessment
+* Process
+* Search strategy
+* Screening procedure
+
+### 
