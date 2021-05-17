@@ -37,14 +37,14 @@ The full dataset including raw data, mining scripts, and analysis scripts produc
 
 This replication package is structured as follows:
 * [/data](/data) - Data
-   * [analysis.csv](/data/analysis.csv) - 
-   * [analysis-09052021-clean.xlsx](/data/analysis-09052021-clean.xlsx) - 
-   * [analysis-years.csv](/data/analysis-years.csv) - 
-   * [analysis-years.xlsx](/data/analysis-years.xlsx) - 
-* [/analysis](/analysis) - Analysis
-   * [/descriptive](/analysis/descriptive) - 
-   * [/horizontal](/analysis/horizontal) - 
-   * [/publishers](/analysis/publishers) - 
-   * [/significance](/analysis/significance) - 
-   * [/venues](/analysis/venues) - 
-   * [/year_stacked](/analysis/year_stacked) - 
+   * [analysis.csv](/data/analysis.csv) - Clean data in a processable form
+   * [analysis-09052021-clean.xlsx](/data/analysis-09052021-clean.xlsx) - Clean data
+   * [analysis-years.csv](/data/analysis-years.csv) - Clean data for the publication year analysis in a processable form
+   * [analysis-years.xlsx](/data/analysis-years.xlsx) - Clean data for the publication year analysis
+* [/analysis](/analysis) - Analysis scripts
+   * [/descriptive](/analysis/descriptive) - Descriptive statistics (.R script and the resulting .PDF report)
+   * [/horizontal](/analysis/horizontal) - Horizontal statistics (.R script and the resulting .PDF report)
+   * [/publishers](/analysis/publishers) - Publisher data (.R script and the resulting .txt output)
+   * [/significance](/analysis/significance) - Significance analysis of the 2012/2013 publication ouput increase (.R script and the resulting .txt output)
+   * [/venues](/analysis/venues) - Venues analysis (.R script and the resulting .txt output)
+   * [/year_stacked](/analysis/year_stacked) - Number and type of publications by year on a stacked bar chart (.R script and the resulting .PDF report)
