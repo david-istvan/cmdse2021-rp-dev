@@ -38,7 +38,7 @@ This replication package is structured as follows:
 * [Publication](https://ieeexplore.ieee.org/document/8047991/)
 
 ### Current study (Update)
-* Protocol - TODO (pdf file with People, Assessment, Process, Search strategy, Screening procedure)
+* Protocol - TODO - https://www.overleaf.com/1633676582pzbjmvkrrsgk
 * Data extraction form - changes: pdf
 * Classification framework - changes: pdf
 * Extracted data spreadsheet: xlsx
