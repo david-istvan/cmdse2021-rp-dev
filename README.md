@@ -17,6 +17,8 @@
 * The data and the results of its analysis: zip
 
 
+==================
+
 This study has been designed, developed, and reported by the following investigators:
 
 - [Istvan David](http://istvandavid.com) (University of Montreal, Canada)
