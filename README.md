@@ -2,7 +2,7 @@
 
 Replication package for the paper Collaborative Model-Driven Software Engineering: A Systematic Update.
 
-### People
+### People -- !!THIS SECTION TO BE OMITTED FROM THE PUBLISHED VERSION!!
 
 This study has been designed, developed, and reported by the following investigators:
 
