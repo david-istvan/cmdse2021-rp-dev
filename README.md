@@ -1,6 +1,6 @@
 # cmdse2021-rp-dev
 
-TODO: description
+Replication package for the paper Collaborative Model-Driven Software Engineering: A Systematic Update.
 
 ### People
 
