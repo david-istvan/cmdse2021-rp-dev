@@ -1,18 +1,6 @@
 # cmdse2021-rp-dev
 
-## Checklist
-
-* This README (see http://people.disim.univaq.it/mirco.franzago/collaborativeMDSE/)
-
-
-* Data extraction form - changes: pdf
-* Classification framework - changes: pdf
-* Extracted data spreadsheet: xlsx
-* Complete list of the 54 primary studies and the 29 clusters: pdf
-
-
-
-==================
+TODO: description
 
 ### People
 
@@ -27,10 +15,6 @@ This study has been designed, developed, and reported by the following investiga
 
 For any information, interested researchers can contact us by sending an email to any of the investigators listed above.
 The full dataset including raw data, mining scripts, and analysis scripts produced during the study are available below.
-
-### Original study
-* [Protocol and replication package](http://people.disim.univaq.it/mirco.franzago/collaborativeMDSE)
-* [Publication](https://ieeexplore.ieee.org/document/8047991/)
 
 ### Data & analysis scripts
 
@@ -49,13 +33,18 @@ This replication package is structured as follows:
    * [/year_stacked](/analysis/year_stacked) - Number and type of publications by year on a stacked bar chart (.R script and the resulting .PDF report)
 * [/results.zip](/results.zip) - Data+Analysis in one .zip file
 
+### Original study
+* [Protocol and replication package](http://people.disim.univaq.it/mirco.franzago/collaborativeMDSE)
+* [Publication](https://ieeexplore.ieee.org/document/8047991/)
+
 ### Protocol
 
 TODO: PDF file with
-* People
-* Assessment
-* Process
-* Search strategy
-* Screening procedure
 
-### 
+
+### Current study
+* Protocol - TODO (pdf file with People, Assessment, Process, Search strategy, Screening procedure)
+* Data extraction form - changes: pdf
+* Classification framework - changes: pdf
+* Extracted data spreadsheet: xlsx
+* Complete list of the 54 primary studies and the 29 clusters: pdf
