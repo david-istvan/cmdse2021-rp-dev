@@ -19,6 +19,8 @@
 
 ==================
 
+### People
+
 This study has been designed, developed, and reported by the following investigators:
 
 - [Istvan David](http://istvandavid.com) (University of Montreal, Canada)
@@ -30,3 +32,19 @@ This study has been designed, developed, and reported by the following investiga
 
 For any information, interested researchers can contact us by sending an email to any of the investigators listed above.
 The full dataset including raw data, mining scripts, and analysis scripts produced during the study are available below.
+
+### Data & analysis scripts
+
+This replication package is structured as follows:
+* [/data](/data) - Data
+   * [analysis.csv](/data/analysis.csv) - 
+   * [analysis-09052021-clean.xlsx](/data/analysis-09052021-clean.xlsx) - 
+   * [analysis-years.csv](/data/analysis-years.csv) - 
+   * [analysis-years.xlsx](/data/analysis-years.xlsx) - 
+* [/analysis](/analysis) - Analysis
+   * [/descriptive](/analysis/descriptive) - 
+   * [/horizontal](/analysis/horizontal) - 
+   * [/publishers](/analysis/publishers) - 
+   * [/significance](/analysis/significance) - 
+   * [/venues](/analysis/venues) - 
+   * [/year_stacked](/analysis/year_stacked) - 
