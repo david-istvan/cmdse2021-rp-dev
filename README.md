@@ -37,12 +37,7 @@ This replication package is structured as follows:
 * [Protocol and replication package](http://people.disim.univaq.it/mirco.franzago/collaborativeMDSE)
 * [Publication](https://ieeexplore.ieee.org/document/8047991/)
 
-### Protocol
-
-TODO: PDF file with
-
-
-### Current study
+### Current study (Update)
 * Protocol - TODO (pdf file with People, Assessment, Process, Search strategy, Screening procedure)
 * Data extraction form - changes: pdf
 * Classification framework - changes: pdf
