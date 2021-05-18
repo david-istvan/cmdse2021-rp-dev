@@ -39,7 +39,6 @@ This replication package is structured as follows:
 
 ### Current study (Update)
 * Protocol - TODO - https://www.overleaf.com/1633676582pzbjmvkrrsgk
-* Data extraction form - changes: pdf
-* Classification framework - changes: pdf
-* Extracted data spreadsheet: xlsx
+* Classification schema changes - changes: pdf
+* [Extracted data spreadsheet [xlsx]](/Data Extraction Form - FINAL.xlsx)
 * Complete list of the 54 primary studies and the 29 clusters: pdf
